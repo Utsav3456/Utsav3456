@@ -44,17 +44,27 @@
 
 ---
 
-<!-- GitHub Stats Section (Dark Theme + Symmetry) -->
-<div align="center">
-  <!-- Top Languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav3456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav3456&layout=compact&theme=tokyonight&hide_border=true" 
+       alt="Top Languages"
+       style="height: 220px; width: 350px; border-radius: 10px;" />
 
   <!-- GitHub Stats -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=utsav3456&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  
-  <!-- Streak Stats -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=utsav3456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utsav3456&show_icons=true&theme=tokyonight&hide_border=true" 
+       alt="GitHub Stats"
+       style="height: 220px; width: 350px; border-radius: 10px;" />
+
 </div>
+
+<!-- GitHub Streak -->
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsav3456&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak"
+       style="width: 730px; border-radius: 10px;" />
+</div>
+
 
 
 ### 📬 Let's Connect!
