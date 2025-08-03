@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Utsav Tyagi</h1>
 <h3 align="center">Aspiring Software Engineer | Data Science and Data Analyst Enthusiast, also passionate about Frontend and UI/UX</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav3456&label=Profile%20views&color=0e75b6&style=flat" alt="utsav3456" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=utsav3456&label=Profile%20views&color=0e75b6&style=flat" alt="utsav3456" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsav3456" alt="utsav3456" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsav3456" alt="utsav3456" /></a> </p>
 
 ### 🚀 About Me
 
@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **SQL, DSA, react.js and advanced Frontend frameworks**
 - 💬 Ask me about **C++, Python & SQL**
 - 📫 How to reach me **utsavtyagi3456@gmail.com**
-- 📄 Know about me more [https://drive.google.com/file/d/10_6tJcwWhoMVFkRBmS9g1ceWS23IWXpw/view?usp=sharing](https://drive.google.com/file/d/10_6tJcwWhoMVFkRBmS9g1ceWS23IWXpw/view?usp=sharing)
+- 📄 Know about me more [Resume](https://drive.google.com/file/d/10_6tJcwWhoMVFkRBmS9g1ceWS23IWXpw/view?usp=sharing)
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
