@@ -47,13 +47,13 @@
 <!-- GitHub Stats Section (Dark Theme + Symmetry) -->
 <div align="center">
   <!-- Top Languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav3456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav3456&layout=compact&theme=tokyonight" alt="Top Languages" />
 
   <!-- GitHub Stats -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=utsav3456&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=utsav3456&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
   <!-- Streak Stats -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=utsav3456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=utsav3456&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
