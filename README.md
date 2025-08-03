@@ -61,7 +61,7 @@
 ### 📬 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/utsavtyagi3456/)  
-- 💌 Email: [utsavtyagi715@gmail.com](mailto:utsavtyagi715@gmail.com)  
+- 💌 Email: [utsavtyagi715@gmail.com](mailto:utsavtyagi3456@gmail.com)  
 - 🌐 Portfolio: Coming Soon  
 - 💻 GitHub: [Utsav3456](https://github.com/Utsav3456)
 
