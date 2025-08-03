@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final year B.Tech student passionate about solving real-world problems with code
+- 🎓 B.Tech CSE Graduate with CGPA of 8.9 passionate about solving real-world problems with code
 - 🔭 I’m currently working on **Machine Learning Projects**
 - 🌱 I’m currently learning **SQL, DSA, react.js and advanced Frontend frameworks**
 - 💬 Ask me about **C++, Python & SQL**
