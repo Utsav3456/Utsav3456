@@ -10,12 +10,13 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE Graduate with CGPA of 8.9 passionate about solving real-world problems with code
+- 🎓 B.Tech CSE Graduate with **CGPA of 8.9** passionate about solving real-world problems with code
 - 🔭 I’m currently working on **Machine Learning Projects**
 - 🌱 I’m currently learning **SQL, DSA, react.js and advanced Frontend frameworks**
 - 💬 Ask me about **C++, Python & SQL**
 - 📫 How to reach me **utsavtyagi3456@gmail.com**
-- 📄 Know about me more [Resume](https://drive.google.com/file/d/10_6tJcwWhoMVFkRBmS9g1ceWS23IWXpw/view?usp=sharing)
+- 📞 Call me **+91-8826684244**
+- 📄 Know about me more **Resume**(https://drive.google.com/file/d/10_6tJcwWhoMVFkRBmS9g1ceWS23IWXpw/view?usp=sharing)
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
