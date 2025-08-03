@@ -44,11 +44,18 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsav3456&show_icons=true&locale=en&layout=compact" alt="utsav3456" /></p>
+<!-- GitHub Stats Section (Dark Theme + Symmetry) -->
+<div align="center">
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav3456&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsav3456&show_icons=true&locale=en" alt="utsav3456" /></p>
+  <!-- GitHub Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=utsav3456&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Streak Stats -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=utsav3456&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utsav3456&" alt="utsav3456" /></p>
 
 ### 📬 Let's Connect!
 
